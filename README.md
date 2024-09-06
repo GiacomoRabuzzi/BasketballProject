@@ -1,1 +1,3 @@
 # BasketballProject
+Our study had two main objectives. The first was to classify basketball players by position using NBA shooting data from the 1997-1998 season to the present, employing generative probabilistic classification models such as EDDA and MDA. The second was to assess whether basketball is increasingly moving away from traditional roles. To achieve this, we divided the dataset into three "eras" and tested the classification models trained on one era on the others.
+We are excited about the results we achieved and hope that our project will be of interest to both basketball enthusiasts and data analysis professionals.
